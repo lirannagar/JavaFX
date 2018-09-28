@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ggontar/Desktop/mongo-java-driver-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ggontar/Desktop/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ggontar/Desktop/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ggontar/Desktop/org.springframework.context.jar"/>
+	<classpathentry kind="lib" path="C:/spring_files/spring/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/spring_files/spring/spring-aop-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring_files/spring/spring-aspects-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring_files/spring/spring-beans-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring_files/spring/spring-context-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring_files/spring/spring-core-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/spring_files/spring/spring-expression-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
